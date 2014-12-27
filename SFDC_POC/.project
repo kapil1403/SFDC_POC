@@ -16,7 +16,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>build/lib/ant-salesforce1.jar</name>
+			<name>build/lib/ant-salesforce.jar</name>
 			<type>1</type>
 			<location>C:/Users/ballu/Downloads/Compressed/salesforce_ant_32.0/ant-salesforce.jar</location>
 		</link>
